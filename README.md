@@ -1,4 +1,12 @@
 # allleague
 奥利给！
 
-![allleague](static/imgs/allleague.png)
+
+
+## Usage
+
+```sh
+cd allleague
+python app.py
+# open http://localhost in browser
+```
