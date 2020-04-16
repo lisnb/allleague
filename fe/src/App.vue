@@ -2,7 +2,7 @@
   <div id="app">
     <img alt="Vue logo" src="./assets/img/allleague-logo.png" width="200px">
     <h3>Welcome to Allleague!</h3>
-    <h4>我要丹丹</h4>
+    <h4>袁果真是天才</h4>
     <!-- <HelloWorld msg="Welcome to Your Vue.js App"/> -->
   </div>
 </template>
